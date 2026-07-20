@@ -1,0 +1,9 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	21161R-62-01_S274_L008_R1_001	/Users/benzhu/northwesterninternship/project1.1/fastqc_results/zipresults/21161R-62-01_S274_L008_R1_001_fastqc.zip
+FastQC	all_sections	21161R-62-01_S274_L008_R2_001	/Users/benzhu/northwesterninternship/project1.1/fastqc_results/zipresults/21161R-62-01_S274_L008_R2_001_fastqc.zip
+FastQC	all_sections	21161R-62-02_S275_L008_R1_001	/Users/benzhu/northwesterninternship/project1.1/fastqc_results/zipresults/21161R-62-02_S275_L008_R1_001_fastqc.zip
+FastQC	all_sections	21161R-62-02_S275_L008_R2_001	/Users/benzhu/northwesterninternship/project1.1/fastqc_results/zipresults/21161R-62-02_S275_L008_R2_001_fastqc.zip
+FastQC	all_sections	21161R-62-03_S276_L008_R1_001	/Users/benzhu/northwesterninternship/project1.1/fastqc_results/zipresults/21161R-62-03_S276_L008_R1_001_fastqc.zip
+FastQC	all_sections	21161R-62-03_S276_L008_R2_001	/Users/benzhu/northwesterninternship/project1.1/fastqc_results/zipresults/21161R-62-03_S276_L008_R2_001_fastqc.zip
+FastQC	all_sections	21161R-62-04_S277_L008_R1_001	/Users/benzhu/northwesterninternship/project1.1/fastqc_results/zipresults/21161R-62-04_S277_L008_R1_001_fastqc.zip
+FastQC	all_sections	21161R-62-04_S277_L008_R2_001	/Users/benzhu/northwesterninternship/project1.1/fastqc_results/zipresults/21161R-62-04_S277_L008_R2_001_fastqc.zip
